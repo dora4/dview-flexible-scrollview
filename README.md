@@ -4,7 +4,8 @@ dview-flexible-scrollview
 
 #### 卡片
 
-![Dora视图_弹性容器-](https://github.com/user-attachments/assets/567c3f05-ec88-4fd5-a6c0-ffeb64fb459f)
+![DORA视图 弹性容器兽](https://github.com/user-attachments/assets/868d5072-8243-49ab-b092-806c272e74cf)
+
 ##### 卡名：Dora视图 Flexible ScrollView
 ###### 卡片类型：同调怪兽
 ###### 属性：水
